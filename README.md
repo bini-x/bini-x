@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,linux,git,js,neovim,github" />
+  <img src="https://skillicons.dev/icons?i=go,linux,git,js" />
 </p>
 
 <hr/>
